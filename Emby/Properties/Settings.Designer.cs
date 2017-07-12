@@ -12,7 +12,7 @@ namespace Emby.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "14.0.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -25,10 +25,10 @@ namespace Emby.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("MjMzMzQ0NTIwMzEyMzI0MDk2.CtcI2Q.Jw4aGM1_dvkAwdrlKl25k5bsKAE")]
-        public string Token {
+        [global::System.Configuration.DefaultSettingValueAttribute("MzA1MzYzMDg2MzgxMDIzMjMy.DDKQjQ.v-CxyBRQr8MddkSawJXwfTsc99c")]
+        public string token {
             get {
-                return ((string)(this["Token"]));
+                return ((string)(this["token"]));
             }
         }
     }
